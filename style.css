@@ -1,0 +1,32 @@
+body{
+    background-color: lightcyan;
+}
+
+h1 {
+    background-color: darkcyan;
+}
+
+#Home{
+     font-size: 24px;
+}
+
+ul {
+    font-size: 24px;
+    
+}
+
+.Description{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol{
+    
+    font-size: 24px;
+    word-spacing: normal;
+
+}
+
+ol li{
+    margin-bottom: 10px;
+}
